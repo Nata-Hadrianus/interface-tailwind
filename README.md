@@ -4,7 +4,7 @@
 
 Este é o README do meu incrível aplicativo, que utiliza Tailwind CSS, Lucide React, TypeScript e Next.js.
 <p align="center">
-  <img src="./public/localhost_3000_ (6).png" alt="Logo do Seu Aplicativo" width="200">
+  <img src="./public/localhost_3000_ (6).png" alt="Logo do Seu Aplicativo" width="400">
  </p>
 
 ## Sobre
